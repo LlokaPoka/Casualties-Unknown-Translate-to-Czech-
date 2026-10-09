@@ -3,6 +3,7 @@ So, to instal translate you need take file cz.json and go to derectory game and 
 yeah, you can read more on my redit (this my second try to upload on a github"https://www.reddit.com/r/casualtiesunknown/comments/1ttszgq/zdravím_všechny_čechy_ktery_hrajou_casualties/") 
 
 p.s
+
 [EN]
 v2.0 – This update brings massive changes to the translation and localization of the entire game.
 Key changes: Since expanded character support was added to the game starting with version 7.0.1, the letter "Ž" has been added to the localization.
